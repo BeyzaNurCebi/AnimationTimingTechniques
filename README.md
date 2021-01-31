@@ -2,7 +2,8 @@
 
 ###### we used three techniques and wrote three functions
 
-## tech1(): ###### uses NativeScript animate() function
+## tech1(): 
+###### uses NativeScript animate() function
 
 ## tech2(): we create our animation by using animation-helpers.ts wroted by Alex Ziskind.
 
